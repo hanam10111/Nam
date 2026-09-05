@@ -1,0 +1,8 @@
+{
+  "name": "AccuTax Enterprise - Quản Lý Kế Toán Thuế Đa Doanh Nghiệp",
+  "description": "Hệ thống quản lý công việc kế toán - thuế chuyên nghiệp cho hàng trăm doanh nghiệp, quản lý kỳ kê khai, deadline, hồ sơ, checklist, phân công, kiểm duyệt, báo cáo và AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
